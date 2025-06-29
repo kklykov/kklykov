@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Konstantin Klykov
 
-**Frontend-focused FullStack Developer** with more than 6 years of experience crafting web interfaces, building scalable applications, and exploring both frontend and backend technologies.
+**Frontend-focused FullStack Developer** with more than <!--experience-->9 years of experience building real-world software projects.
 
 🎯 Passionate about modern JavaScript frameworks, UI design, clean code, and continuous learning.
 
