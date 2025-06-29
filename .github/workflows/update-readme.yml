@@ -1,0 +1,38 @@
+name: 🕒 Update experience counter
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Todos los días a medianoche UTC
+  workflow_dispatch:
+
+jobs:
+  update-experience:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Calculate years of experience and update README
+        run: |
+          START_DATE="2015-11-01"
+          CURRENT_DATE=$(date +%Y-%m-%d)
+          YEARS=$(( ($(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s)) / 31556952 ))
+
+          echo "Calculated years: $YEARS"
+
+          sed -i "s/<!--experience-->[0-9]\+/<!--experience-->$YEARS/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git diff
+
+          if [[ $(git status --porcelain) ]]; then
+            git add README.md
+            git commit -m "🔄 Update years of experience to $YEARS"
+            git push
+          else
+            echo "No changes needed."
+          fi
