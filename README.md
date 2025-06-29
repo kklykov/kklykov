@@ -60,8 +60,3 @@
 - 📫 [Email](mailto:kklykov@gmail.com)
 - 🐙 [GitHub](https://github.com/kklykov)
 
----
-
-## 📈 GitHub Stats
-
-![Konstantin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kklykov&show_icons=true&theme=radical)
