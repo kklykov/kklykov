@@ -50,10 +50,13 @@
 ## 🧠 About Me
 
 💡 I'm self-taught, proactive, and always exploring ways to improve my skills.
+
 🎮 Outside of work, I enjoy **playing video games**, sipping **good coffee**, tinkering with **hardware**, and staying active through **sports**.
+
 🏕️ I love spending time in **nature**, especially **camping in remote places far from civilization**.
 
 🌍 I speak **Spanish**, **Catalan**, **English**, and **Russian**.  
+
 📍 Based in Spain, available for remote work and collaboration.
 
 ---
