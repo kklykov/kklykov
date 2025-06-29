@@ -19,6 +19,9 @@
 
 **Tools & Utilities:**
 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000?style=flat&logo=tailwindcss)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack)
@@ -31,11 +34,11 @@
 
 ## 💼 Experience Highlights
 
-- 🧑‍💻 **Frontend Lead @ Imbee**  
-  Leading UI development using **React**, **VueJS**, and modern JavaScript. Previously led a SCRUM/Kanban hybrid team as project manager.
-
 - 🧪 **FullStack Developer @ Parallel**  
   Working remotely with **Next.js**, **GraphQL**, **TypeScript**, and **PostgreSQL** to build robust fullstack applications.
+
+- 🧑‍💻 **Frontend Lead @ Imbee**  
+  Leading UI development using **React**, **VueJS**, and modern JavaScript. Previously led a SCRUM/Kanban hybrid team as project manager.
 
 - 💼 **Java Developer @ Tuyú / Everis**  
   Participated in the *“Línea Oberta”* project at CaixaBank with Java, Oracle PLSQL, RESTful services, and JavaScript.
@@ -46,7 +49,9 @@
 
 ## 🧠 About Me
 
-💡 I'm self-taught, proactive, and always exploring ways to improve my skills. My interests extend to **psychology**, **sports**, and **hardware tinkering**.
+💡 I'm self-taught, proactive, and always exploring ways to improve my skills.
+🎮 Outside of work, I enjoy **playing video games**, sipping **good coffee**, tinkering with **hardware**, and staying active through **sports**.
+🏕️ I love spending time in **nature**, especially **camping in remote places far from civilization**.
 
 🌍 I speak **Spanish**, **Catalan**, **English**, and **Russian**.  
 📍 Based in Spain, available for remote work and collaboration.
